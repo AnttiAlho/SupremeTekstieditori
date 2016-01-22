@@ -6,7 +6,7 @@ Tekstieditori jolla voi avata muokata ja tallentaa tekstitiedostoja.
 
 Käyttäjä...
 
-***Perus toiminnallisuus:**
+**Perus toiminnallisuus:**
 
 -tiedoston avaus
 
