@@ -1,6 +1,12 @@
-Kuvaus: Tekstieditori jolla voi avata muokata ja tallentaa tekstitiedostoja.
+**Kuvaus:** 
 
-Perus toiminnallisuus:
+Tekstieditori jolla voi avata muokata ja tallentaa tekstitiedostoja.
+
+**Käyttäjä:**
+
+Käyttäjä...
+
+***Perus toiminnallisuus:**
 
 -tiedoston avaus
 
@@ -8,7 +14,7 @@ Perus toiminnallisuus:
 
 -tiedoston muokkaus
 
-Kivat lisät:
+**Kivat lisät:**
 
 -Rivimäärä laskuri
 
