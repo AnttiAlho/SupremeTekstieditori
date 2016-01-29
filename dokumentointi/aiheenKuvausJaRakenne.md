@@ -60,3 +60,8 @@ Käyttäjä...
 -EditoriLaatikon toiminnallisuuden lisäys (uusi luokka joka perii JEditorPanen)
 
     -texti dokumentin alueiden väritys (kommentint vihreällä jne.)
+    
+    
+    
+![Alt text](http://yuml.me/d70ff936)
+
