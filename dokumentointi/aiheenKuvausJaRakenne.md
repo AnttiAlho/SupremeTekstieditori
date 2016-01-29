@@ -33,11 +33,11 @@ Käyttäjä...
     
     -jos uusi tiedosto jota ei ole vielä tallennettu toimii kuin Save As
   
-        -Save As
+    -Save As
   
-        -hotkey [CTRL+SHIFT+S]
+    -hotkey [CTRL+SHIFT+S]
   
-        -Avaa FileChooser ikkunan jossa määrätään minne tiedosto tallennetaan ja millä nimelällä
+    -Avaa FileChooser ikkunan jossa määrätään minne tiedosto tallennetaan ja millä nimelällä
 
 -Ohjelman sulkeminen
   
