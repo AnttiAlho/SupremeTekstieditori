@@ -57,4 +57,6 @@ Käyttäjä...
 
 -välilehdet
 
--EditoriLaatikon toiminnallisuuden lisäys
+-EditoriLaatikon toiminnallisuuden lisäys (uusi luokka joka perii JEditorPanen)
+
+    -texti dokumentin alueiden väritys (kommentint vihreällä jne.)
