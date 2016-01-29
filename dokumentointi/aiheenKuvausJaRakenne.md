@@ -56,3 +56,5 @@ Käyttäjä...
 -parametrinä saadun tiedoston avaus
 
 -välilehdet
+
+-EditoriLaatikon toiminnallisuuden lisäys
